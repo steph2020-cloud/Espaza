@@ -1,0 +1,12 @@
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\bin\Debug\net5.0\eSpazaShop.Entities.deps.json
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\bin\Debug\net5.0\eSpazaShop.Entities.dll
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\bin\Debug\net5.0\ref\eSpazaShop.Entities.dll
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\bin\Debug\net5.0\eSpazaShop.Entities.pdb
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\obj\Debug\net5.0\eSpazaShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\obj\Debug\net5.0\eSpazaShop.Entities.AssemblyInfoInputs.cache
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\obj\Debug\net5.0\eSpazaShop.Entities.AssemblyInfo.cs
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\obj\Debug\net5.0\eSpazaShop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\obj\Debug\net5.0\eSpazaShop.Entities.dll
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\obj\Debug\net5.0\ref\eSpazaShop.Entities.dll
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\obj\Debug\net5.0\eSpazaShop.Entities.pdb
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Entities\obj\Debug\net5.0\eSpazaShop.Entities.csproj.AssemblyReference.cache

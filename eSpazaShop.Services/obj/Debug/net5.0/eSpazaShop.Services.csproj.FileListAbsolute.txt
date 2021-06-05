@@ -1,0 +1,17 @@
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\bin\Debug\net5.0\eSpazaShop.Services.deps.json
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\bin\Debug\net5.0\eSpazaShop.Services.dll
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\bin\Debug\net5.0\ref\eSpazaShop.Services.dll
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\bin\Debug\net5.0\eSpazaShop.Services.pdb
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\obj\Debug\net5.0\eSpazaShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\obj\Debug\net5.0\eSpazaShop.Services.AssemblyInfoInputs.cache
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\obj\Debug\net5.0\eSpazaShop.Services.AssemblyInfo.cs
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\obj\Debug\net5.0\eSpazaShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\obj\Debug\net5.0\eSpazaShop.Services.dll
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\obj\Debug\net5.0\ref\eSpazaShop.Services.dll
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\obj\Debug\net5.0\eSpazaShop.Services.pdb
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\bin\Debug\net5.0\eSpazaShop.Entities.dll
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\bin\Debug\net5.0\eSpazaShop.Repositories.dll
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\bin\Debug\net5.0\eSpazaShop.Repositories.pdb
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\bin\Debug\net5.0\eSpazaShop.Entities.pdb
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\obj\Debug\net5.0\eSpazaShop.Services.csproj.CopyComplete
+C:\Users\developer\source\repos\eSpazaShop\eSpazaShop.Services\obj\Debug\net5.0\eSpazaShop.Services.csproj.AssemblyReference.cache
